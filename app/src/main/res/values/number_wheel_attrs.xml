@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="NumberWheel">
+        <attr name="numDigits" format="integer" />
+        <attr name="textSize" format="dimension" />
+        <attr name="duration" format="integer" />
+        <attr name="fillBg" format="boolean" />
+        <attr name="fillColour" format="color" />
+    </declare-styleable>
+</resources>
